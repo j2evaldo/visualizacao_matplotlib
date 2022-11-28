@@ -1,1 +1,1 @@
-# visualizacao_matplotlib
+# curso-matplotlib
